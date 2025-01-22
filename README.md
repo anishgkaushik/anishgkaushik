@@ -39,14 +39,15 @@ I'm a passionate **Business Analyst** graduate student with a strong interest in
 
 ## 📂 Projects  
 
-### 📈 **Identification of Areca Nuts**  
+### 📈 [Identification of Areca Nuts](https://github.com/anishgkaushik/arecanut-background-removal):    
 - Developed a web app using ML & DL models like U-Net for identifying and harvesting areca nut bunches, achieving 92%-96% yield accuracy.  
 - **Tools Used**: Python (Pandas, Scikit-learn)
 
-### 💡 **Shiny Application for Plotting Dynamic Graphs**  
+### 💡 [Shiny Application for Plotting Dynamic Graphs](https://github.com/anishgkaushik/Dynamic_Graphs_Rshiny)  
 - Designed an interactive R Shiny application for plotting various graphs based on user selection.
+- [Application Hosting Link](https://gkapps.shinyapps.io/Project_App/)
 
-### 🏢 **FDA Analysis**  
+### 🏢 [FDA Analysis](https://github.com/anishgkaushik/FDA_Analysis_App)
 - Created a ML model for predicting FDA inspection outcomes based on the location, I achived an accuracy of 82% by using Random Forset model.
 
 ---
@@ -73,8 +74,7 @@ I'm a passionate **Business Analyst** graduate student with a strong interest in
 
 ## 🌐 Let's Connect!  
 
-- 💼 [LinkedIn](#)  
-- 📂 [Portfolio](#)  
+- 💼 [LinkedIn](#www.linkedin.com/in/anish-gangur-kaushik)   
 - 📧 Email: [anishgkaushikusa@gmail.com](mailto:anishgkaushikusa@gmail.com)  
 
 ---
