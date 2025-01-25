@@ -72,7 +72,7 @@ I'm a passionate **Business Analyst** graduate at University of New Haven with a
 
 ## 🌐 Let's Connect!  
 
-- 💼 [LinkedIn](www.linkedin.com/in/anish-gangur-kaushik)   
-- 📧 Email: [anishgkaushikusa@gmail.com](mailto:anishgkaushikusa@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-gangur-kaushik) 
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishgkaushikusa@gmail.com)  
 
 ---
